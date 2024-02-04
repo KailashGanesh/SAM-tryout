@@ -1,5 +1,14 @@
+# Directories to ignore
 segment-anything/
 Brain-MRI-segmentation/
+
+# don't commit the model 
 sam_vit_h_4b8939.pth
+
+# Ignore all images files
 *.jpeg
+*.png
+*.tiff
+
+# Ignore macOS specific file
 .DS_Store
