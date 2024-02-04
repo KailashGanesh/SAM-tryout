@@ -2,3 +2,4 @@ segment-anything/
 Brain-MRI-segmentation/
 sam_vit_h_4b8939.pth
 *.jpeg
+.DS_Store
